@@ -1,0 +1,11 @@
+*.php
+*.log
+*.html
+*.htm
+*.py
+*.zip
+*.7z
+*.sql
+*.inc
+*.sh
+*.gz
