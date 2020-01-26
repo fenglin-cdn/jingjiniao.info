@@ -1,0 +1,5 @@
+.edt{border: 1px solid #ddd;background:#fff;/*border-radius:5px;*/}
+.edt .b2r a.dp{background:#fff url({STYLEIMGDIR}/newarow.gif) no-repeat 100% 0;border: 1px solid #ddd;/*border-radius:5px;*/}
+/*.edt .bar{border-radius:5px 5px 0 0;}
+.edt .bbar{border-radius:0 0 5px 5px;}*/
+#e_simple, #e_fullswitcher{border-color:#ddd;}
