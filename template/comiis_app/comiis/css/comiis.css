@@ -1624,7 +1624,7 @@ background:rgba(255,0,0,0);
 .comiis_postli_top .comiis_verify img {float:left;margin-top:1px;margin-left:4px;height:14px}
 .comiis_postli_top .comiis_pdbts {margin-top:1px;margin-right:8px}
 .comiis_postli_top .comiis_pdbts_v1 {margin-top:1px}
-.comiis_postli .comiis_message {padding:3px 12px 5px 58px;font-size:16px;line-height:26px}
+.comiis_postli .comiis_message {padding:3px 12px 5px 58px;font-size:13px;line-height:26px}
 .comiis_postli .view_one {padding:5px 12px 8px;line-height:30px;margin-bottom:10px}
 .comiis_postli .comiis_message h2 {}
 .comiis_postli .comiis_message img[smilieid] {max-height:22px;margin:1px 1px 0;vertical-align:top}
